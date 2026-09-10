@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">297241425850</string>
+    <string name="google_api_key" translatable="false">AIzaSyCpPl3dfEicPP_3IznbTFaREpny-uAWgD0</string>
+    <string name="google_app_id" translatable="false">1:297241425850:android:2fe1fb7552b676d8838f83</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpPl3dfEicPP_3IznbTFaREpny-uAWgD0</string>
+    <string name="google_storage_bucket" translatable="false">kaique-ms27-rango-project.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kaique-ms27-rango-project</string>
+</resources>

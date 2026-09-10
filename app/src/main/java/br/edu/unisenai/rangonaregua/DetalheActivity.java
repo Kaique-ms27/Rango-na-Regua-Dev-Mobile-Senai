@@ -12,9 +12,6 @@ import androidx.core.view.WindowInsetsCompat;
 
 import br.edu.unisenai.rangonaregua.model.Lugar;
 
-import java.text.NumberFormat;
-import java.util.Locale;
-
 
 public class DetalheActivity extends AppCompatActivity {
 

@@ -1,6 +1,5 @@
 package br.edu.unisenai.rangonaregua.adapter;
 
-import android.app.backup.BackupAgent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

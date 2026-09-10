@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297241425850",
+    "project_id": "kaique-ms27-rango-project",
+    "storage_bucket": "kaique-ms27-rango-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297241425850:android:2fe1fb7552b676d8838f83",
+        "android_client_info": {
+          "package_name": "br.edu.unisenai.rangonaregua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPl3dfEicPP_3IznbTFaREpny-uAWgD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
